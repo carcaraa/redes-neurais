@@ -1,0 +1,27 @@
+# Ambiente virtual
+venv/
+
+# Anaconda
+.conda/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Checkpoints e modelos salvos
+*.pth
+*.pt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Imagens geradas (opcional)
+*.png
+
+# Sistema
+.DS_Store
+Thumbs.db
