@@ -20,7 +20,7 @@ __pycache__/
 .vscode/
 
 # Imagens geradas (opcional)
-*.png
+#*.png
 
 # Sistema
 .DS_Store
